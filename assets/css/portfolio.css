@@ -1,0 +1,160 @@
+* {
+  font-family: Montserrat;
+}
+
+img {
+	max-width: 100%;
+	
+}
+
+body {
+	background-image: url("../images/codingbackground.jpg");
+	background-size: 25%;
+	font-size: 24px;
+	color: white;
+	background-color: white;
+	font-family: Montserrat;
+}
+
+h1 {
+	width: inherit;
+	min-width: 100%;
+	height: 75px;
+	font-size: 40px;
+	color: white;
+	margin-left: 0px;
+	padding: 20px;
+
+}
+
+h1, h4 {
+
+	text-align: center;
+	width: 90%;
+	margin-left: 0%;
+}
+
+h4 {
+	font-size: 17px;
+}
+
+hr {
+	color: #777777;
+	margin: 10px;
+}
+
+
+/* UNIVERSAL FOOTER */
+
+.footer {
+	font-size: 10px;
+	font-family: Arial;
+	color: white;
+	padding: 10px 0 0 0;
+	position: fixed;
+	bottom: 0;
+	height: 50px;
+	width: 100%;
+	border-color: #4aaaa5;
+	border-top-style: solid;
+	border-width: 4px;
+	background-color: #666666;
+	text-align-last: center;
+	margin-left: -15px;
+    
+}
+
+.empty {
+	height: 55px;
+	width: 100%;
+	
+}
+
+.leftSide {
+	width: 5%;
+}
+
+.rightSide {
+	width: 5%;
+}
+
+/*STYLING FOR THE PORTFOLIO PAGE NAV BAR*/
+
+ul {
+  height: 64px;
+	text-align: center;
+}
+
+li {
+	max-width: 300px;
+	margin-top: 15px;
+	position: relative;
+	color: #444;
+	display: inline-block;
+	width: 200px;
+}
+
+li:first-child {
+	width:200px;
+}
+
+.brand-logo {
+	width: 200px;
+}
+
+#recentprojects {
+	margin-left: 5%;
+	width: 200px;
+}
+
+#resume {
+	width: 100px;
+}
+
+a {
+	color: #444;
+}
+
+.toprow span {
+  color: #444;
+  font-size: 20px;
+
+}
+
+#logo-container {
+	font-size: 30px;
+}
+
+.navbar {
+	margin: 0;
+
+}
+
+#footerrow {
+	height: 100px;
+	width: 100%;
+	background-color: white;
+	margin: 20px 0 0 0;
+}
+
+#copyright {
+	max-width: 200px;
+	color: black;
+	font-size: 15px;
+	text-align: left;
+	padding-top: 45px;
+	padding-left: 5%;
+}
+
+#sigcol {
+	height: 60px;
+	width: 50%;
+	padding-right: 20px;
+	background-color: white;
+}
+
+#signature {
+  margin-left: 60%;
+  max-width: 175px;
+	margin-top: 30px;
+}
