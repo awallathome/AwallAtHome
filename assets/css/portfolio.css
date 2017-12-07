@@ -121,6 +121,15 @@ a {
 
 }
 
+.toprow :hover {
+  color: #035;
+  height: 64px;
+  -webkit-transform: scale(1.1);
+	transform: scale(1.1);
+  transition: 1s;
+	text-decoration: none;
+}
+
 #logo-container {
 	font-size: 30px;
 }
