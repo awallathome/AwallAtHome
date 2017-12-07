@@ -26,8 +26,6 @@ li {
 	display: inline-block;
 }
 
-
-
 .brand-logo {
 	margin-right: 10%;
   width: 200px;
@@ -72,8 +70,17 @@ nav .brand-logo {
 
 }
 
-.parallax-container {
+#contact :hover {
+  color: #854;
+  height: 64px;
+  -webkit-transform: scale(1.1);
+	transform: scale(1.1);
+  transition: 1s;
+  text-decoration: none;
 
+}
+
+.parallax-container {
   min-height: 400px;
   line-height: 0;
   height: auto;
