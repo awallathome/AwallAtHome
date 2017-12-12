@@ -73,8 +73,8 @@ nav .brand-logo {
 #contact :hover {
   color: #854;
   height: 64px;
-  -webkit-transform: scale(1.1);
-	transform: scale(1.1);
+  -webkit-transform: scale(1.07);
+	transform: scale(1.07);
   transition: 1s;
   text-decoration: none;
 
